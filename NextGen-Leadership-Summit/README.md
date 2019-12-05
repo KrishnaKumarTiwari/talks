@@ -14,7 +14,7 @@ This repository contains details of my session at NextGen Leadership Summit Bang
 
 ## [Colab link](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd)
 
-## [linkedin](https://www.linkedin.com/company/1point21gws/)
+## [LinkedIn](https://www.linkedin.com/company/1point21gws/)
 
 
 
