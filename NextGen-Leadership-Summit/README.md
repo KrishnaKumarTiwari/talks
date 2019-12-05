@@ -10,7 +10,7 @@ This repository contains details of my session at NextGen Leadership Summit Bang
 
 ## [Event Link](https://1point21gws.com/leadership/bangalore/#speakers)
 
-## [Slides](https://docs.google.com/presentation/d/1qQ9VOqe8oSrFW1AQSCmVNVBko-Yx69E6-gEgH5N4Ehc/edit#slide=id.g7a9db6b83e_0_0)
+## [Slides](https://docs.google.com/presentation/d/1qQ9VOqe8oSrFW1AQSCmVNVBko-Yx69E6-gEgH5N4Ehc/edit?usp=sharing)
 
 ## [Colab link](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd)
 
