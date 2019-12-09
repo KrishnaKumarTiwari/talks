@@ -1,6 +1,9 @@
 # Talks
 
-Keeping my talks/presentations here
+[![](https://img.shields.io/badge/badge-Krishna--Kumar--Tiwari-brightgreen)](https://www.linkedin.com/in/agentkk/)
+
+## Keeping my talks/presentations here
+
 
 ## 2019
 - NextGen Leadership Summit Dec 6th 2019
