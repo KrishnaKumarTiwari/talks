@@ -7,3 +7,6 @@
 ## Topic : Click Volume Potential Maximization in Affiliate Network
 
 ## [Conference Link](https://csita2019.org/dmap/papers.html)
+
+
+![Screenshot](../dmap_schedule.png)
