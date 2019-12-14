@@ -8,5 +8,6 @@
 
 ## [Conference Link](https://csita2019.org/dmap/papers.html)
 
+## Scan Here
 
-![Screenshot](../dmap_schedule.png)
+![Screenshot](cvpm_qr.png)
