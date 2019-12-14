@@ -9,5 +9,5 @@
 
 ## Please Scan Here 
 
-![Screenshot](sopl.png)
+![Screenshot](sopl.png=250x250)
 
