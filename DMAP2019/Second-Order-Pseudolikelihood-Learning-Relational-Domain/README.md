@@ -7,5 +7,7 @@
 
 ## [Conference Link](https://csita2019.org/dmap/papers.html)
 
-![Screenshot](../dmap_schedule.png)
+## Please Scan Here 
+
+![Screenshot](sopl.png)
 
