@@ -8,7 +8,7 @@
 
 This is central repository to keep all the session of HSS of ML-Ai Community.
 
-## [ML-Ai Community](https://www.ml-ai.com/)
+## [ML-Ai Community](https://www.ml-ai.in/)
 
 ## [How to start a project?](https://medium.com/@KtheAgent/how-to-start-a-project-in-ml-ai-community-7033b23026cf)
 
