@@ -7,7 +7,7 @@
 [![](https://sourcerer.io/fame/KrishnaKumarTiwari/KrishnaKumarTiwari/talks/images/0)](https://ml-ai.in)
 
 
-This repository contains details of my session at Hack36 MNNIT Allahabad 15th-Febuary-2020
+This repository contains details of my session at IIIT-Bhagalpur 18th-Febuary-2020
 
 ## Topic : Project aspects of ML-Ai Community
 
