@@ -4,12 +4,19 @@
 
 ## Keeping my talks/presentations here
 
+## 2020
+
+- Hack 36 MNNIT Allahabad 15th Feb 2020
+- Happy Sharing Session with Adam 15th Feb 2020
 
 ## 2019
 - NextGen Leadership Summit Dec 6th 2019
 - DMAP 2019 : 5th International Conference on Data Mining and Applications
   - Second Order Schedule Likelihood
   - Click Volume Potential Maximization
-
+  
 ![Screenshot](dmap_speaker.png)
+
+
+
 
