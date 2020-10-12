@@ -15,8 +15,6 @@ This repository contains details of my session at AI North Summit UK 2020
 
 ## [Slides](https://docs.google.com/presentation/d/1cJA6_RV_NnrsSqEQLZOSWyK4C1YFekfybU5l48W2kgg/edit?usp=sharing)
 
-## [Colab link](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd?authuser=1#scrollTo=pKiRcnHVHiLB) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10oFO1Nus7x9a0v2NFtgkgAvuMDb05Edd)
-
 
 ## Scan Me 
 ![Screenshot](ainorth-scan.png)
