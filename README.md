@@ -22,5 +22,15 @@
 ![Screenshot](dmap_speaker.png)
 
 
+## 2015-18
+- Mentoring session on Machine Learning for ML AI Community members
 
+## 2012-15
+- Data Strcure & Algorithms mentoring to diffirent colleges 
 
+## 2011
+- Prepared for KDD as my paper got accepected in KDD workshop. Was not able to attend because of found issues.
+
+## 2010
+- IBM Research Lab, Bangalore, Presented Minute Sense Project to researchers
+![Screenshot](ibm-minute-sense.jpg)
