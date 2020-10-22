@@ -15,6 +15,7 @@ This repository contains details of my session at AI North Summit UK 2020
 
 ## [Slides](https://docs.google.com/presentation/d/1cJA6_RV_NnrsSqEQLZOSWyK4C1YFekfybU5l48W2kgg/edit?usp=sharing)
 
+## 2000+ Delegates
 
 ## Scan Me 
 ![Screenshot](ainorth-scan.png)
