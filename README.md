@@ -11,6 +11,7 @@
 - Hack 36 MNNIT Allahabad 15th Feb 2020 
 - Happy Sharing Session with Adam 15th Feb 2020
 - [Advisory Board Member at AI Forum](https://ai-forum.com/advisory-board/)
+- [40 Under 40 Data Scientist Award, India 2020](https://www.youtube.com/watch?v=Q8laoM3UBW4)
 
 ![Screenshot](ainorth.png)
 
