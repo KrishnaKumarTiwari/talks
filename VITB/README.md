@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/badge-Krishna--Kumar--Tiwari-brightgreen)](https://www.linkedin.com/in/agentkk/)
 [![](https://sourcerer.io/fame/KrishnaKumarTiwari/KrishnaKumarTiwari/talks/images/0)](https://ml-ai.in)
 
-This repository contains details of my session at Talk at VIT Bhopal 2022 
+This repository contains details of my talk at VIT Bhopal 2022 
 
 ## Machine Learning : Prototype to {Production}
 
