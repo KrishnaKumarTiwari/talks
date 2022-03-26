@@ -7,7 +7,7 @@ This repository contains details of my session at Talk at VIT Bhopal 2022
 
 ## Machine Learning : Prototype to {Production}
 
-## [Slides](https://docs.google.com/presentation/d/1xcUJ0rBLJWPwl1RGL5OIJkI75NgUlpiIQswvi7lU-ZY/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/1o6LRP7YnTu2SgwEOT9TSyDe-p3r3kIu2CeogcxJ8upU/edit?usp=sharing)
 
 ## Event Details 
 ![Screenshot](vitb.png)
