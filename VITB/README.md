@@ -16,7 +16,7 @@ This repository contains details of my session at Talk at VIT Bhopal 2022
 
 
 ## Scan Me 
-![Screenshot](ainorth-scan.png)
+![Screenshot](vitb.png)
  
  
 ## Listing Page 
