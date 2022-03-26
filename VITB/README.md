@@ -6,7 +6,6 @@
 
 [![](https://sourcerer.io/fame/KrishnaKumarTiwari/KrishnaKumarTiwari/talks/images/0)](https://ml-ai.in)
 
-
 This repository contains details of my session at Talk at VIT Bhopal 2022 
 
 ## Machine Learning : Prototype to {Production}
@@ -15,7 +14,7 @@ This repository contains details of my session at Talk at VIT Bhopal 2022
 ## [Slides](https://docs.google.com/presentation/d/1xcUJ0rBLJWPwl1RGL5OIJkI75NgUlpiIQswvi7lU-ZY/edit?usp=sharing)
 
 
-## Scan Me 
+## Event Details 
 ![Screenshot](vitb.png)
  
  
