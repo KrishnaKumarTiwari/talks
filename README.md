@@ -6,7 +6,7 @@
 
 ## 2025
 - [DataHack Summit 2025 Bangalore]([https://www.aitechnorth.uk/ai-tech-north-2020](https://www.analyticsvidhya.com/datahacksummit-2025/speakers/krishna-kumar-tiwari))
-- [Slides]()
+- [Slides](https://github.com/KrishnaKumarTiwari/talks/blob/master/Krishna-Talk-DataHackSummit-final.pdf)
 ![Screenshot](datahack2025i1.png)
 ![Screenshot](datahack2025i2.png)
 - [Coverage on Linkedin](https://www.linkedin.com/posts/analytics-vidhya_analyticsvidhya-datahacksummit2025-dhs2025-activity-7364242262274269184-y-Ej?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAREF4sBo3q0_4hIAhcOrY6p8-g04XgIopI)
