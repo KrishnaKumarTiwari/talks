@@ -9,7 +9,7 @@
 ![Screenshot](datahack2025i1.png)
 ![Screenshot](datahack2025i2.png)
 
-- 
+
 ## 2020
 
 - [AI North Summit 2020 UK](https://www.aitechnorth.uk/ai-tech-north-2020)
